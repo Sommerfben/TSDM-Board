@@ -1,0 +1,11 @@
+"Bill of Material for "
+"On 23/11/2016 at 2:06:55 AM"
+
+"Comment","Pattern","Quantity","Components"
+
+"Avago ASSR-V621-302E","Avago ASSR-V621-302E (8-SMD)","1","U3","Dual Photovoltaic MOSFET Driver"
+"IXTP1R6N50D2","","2","U1, U2","N-Channel Depletion Mode MOSFET"
+"Resistor","AXIAL-0.4","2","R1, R2","Resistor for MOSFET driver"
+"TE 1-770966-0","TE 1-770966-0","1","J1","Mini-Universal MATE-N-LOK 2-Pin Female Connector"
+"TE 2-1445055-2","TE 2-1445055-2","1","J2","Micro MATE-N-LOK 2-Pin Female Connector"
+"TGHLV1K00JE","","1","R3","RES CHAS MNT 1K OHM 5% 200W"
